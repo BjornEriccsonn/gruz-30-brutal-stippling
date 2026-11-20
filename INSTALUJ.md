@@ -9,11 +9,11 @@
 5. Uruchom GIMP ponownie.
 
 # UŻYCIE
-** Zaznacz warstwę i wybierz: **
+**Zaznacz warstwę i wybierz:**
 Filtry > Artystyczne > GRUZ-30 > GRUZ-30 — przygotuj warstwę
 Wybierz profil. Filtry pojawią się na warstwie jako edytowalny stos.
 
-** Następnie, gdy wygląd będzie gotowy: ** 
+**Następnie, gdy wygląd będzie gotowy:** 
 Filtry > Artystyczne > GRUZ-30 > GRUZ-30 — wykonaj stippling
 Powstanie osobna warstwa z rastrem. Oryginalna warstwa z filtrami zostaje.
 
