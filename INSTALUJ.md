@@ -1,6 +1,6 @@
-GRUZ-30 STIPPLING — GIMP 3.x
+## GRUZ-30 STIPPLING — GIMP 3.x
 
-INSTALACJA (Windows)
+# INSTALACJA (Windows)
 1. Zamknij GIMP.
 2. Otwórz Eksplorator plików i wpisz w pasek adresu:
    %APPDATA%\GIMP\3.0\plug-ins\
@@ -8,19 +8,17 @@ INSTALACJA (Windows)
 4. Skopiuj do niego plik gruz30_stippling.py.
 5. Uruchom GIMP ponownie.
 
-UŻYCIE
-Zaznacz warstwę i wybierz:
+# UŻYCIE
+** Zaznacz warstwę i wybierz: **
 Filtry > Artystyczne > GRUZ-30 > GRUZ-30 — przygotuj warstwę
 Wybierz profil. Filtry pojawią się na warstwie jako edytowalny stos.
 
-Następnie, gdy wygląd będzie gotowy:
+** Następnie, gdy wygląd będzie gotowy: ** 
 Filtry > Artystyczne > GRUZ-30 > GRUZ-30 — wykonaj stippling
 Powstanie osobna warstwa z rastrem. Oryginalna warstwa z filtrami zostaje.
 
-WAŻNE
+# WAŻNE
 - To wtyczka dla GIMP 3.x, nie GIMP 2.10.
-- Wtyczka nie była uruchamiana w Twojej instalacji GIMP. To pierwsza wersja
-  do testów; jeśli GIMP zgłosi błąd, prześlij dokładny komunikat.
 - Stippling jest liczony przez skrypt: zmniejszenie jest aproksymowane
   uśrednianiem bloków, a nie identyczną interpolacją Cubic z GIMP.
 - Profile używają natywnych filtrów GEGL, o ile dana operacja jest dostępna
