@@ -1,4 +1,4 @@
-GRUZ-30 STIPPLING — wersja 0.2
+##GRUZ-30 STIPPLING — wersja 0.2
 
 Wtyczka ma dwa polecenia:
 
