@@ -1,4 +1,4 @@
-##GRUZ-30 STIPPLING — wersja 0.2
+## GRUZ-30 STIPPLING — wersja 0.2
 
 Wtyczka ma dwa polecenia:
 
@@ -17,7 +17,7 @@ Wtyczka ma dwa polecenia:
    Można wybrać punkty 2x2 lub 3x3 px, Floyd–Steinberg albo Bayer 8x8
    oraz gamma.
 
-UWAGI TECHNICZNE
+## UWAGI TECHNICZNE
 - Filtry przygotowujące są natywnymi filtrami GEGL w GIMP 3.
 - Wartości są odwzorowaniem parametrów workflow, ale nie wszystkie suwaki
   GIMP-a mają identyczną skalę w GEGL. Szczególnie kontrast +50 został
@@ -27,5 +27,6 @@ UWAGI TECHNICZNE
   pola punktów o zadanym rozmiarze.
 - Operacje GEGL mogą różnić się dostępnością/nazwami zależnie od wersji
   GIMP/GEGL. Jeśli któryś filtr nie istnieje, GIMP pokaże błąd wykonania.
-- Nie testowano jeszcze w rzeczywistej instalacji Windows/GIMP użytkownika.
-  Przed pracą na docelowych kolażach zrób próbę na kopii pliku.
+- Przed pracą na docelowych kolażach zrób próbę na kopii pliku. Różnie może być XD
+
+Jak mawiał mój wykładowca kiedyś - kto nie save'uje ten potem żałuje. 
