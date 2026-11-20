@@ -1,5 +1,7 @@
 ## GRUZ-30 STIPPLING — wersja 0.2
 
+*pozdro dla Spółdzielni*
+
 Wtyczka ma dwa polecenia:
 
 1. PRZYGOTUJ WARSTWĘ
